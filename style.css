@@ -1,0 +1,22 @@
+.social-ctr i{font-size: 14px !important;}
+.span-shping{font-size: 10px;}
+.text-control{font-size: 12px !important;}
+
+
+
+@media(max-width:991px){
+   .mobile-case{display: none;} 
+
+.row-tablet{padding: 0px 10px; font-size: 13px;}
+}
+@media(max-width:767px){
+footer .container .row-mobile{width: 100%; text-align: center;}
+.row-tablet{text-align: center; gap: 20px; font-size: 15px;}
+.fs-7{font-size: 10px !important;}
+.span-shping{font-size: 7px;}
+.mobile-case{display: none;}
+.navbar-toggler{top: -29px !important; }
+.pe-10{padding-right: 75px !important; position: absolute; top: 0px;}
+
+}
+
